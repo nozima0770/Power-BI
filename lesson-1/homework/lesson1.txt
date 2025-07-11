@@ -1,0 +1,53 @@
+1.What is Power BI, and what are its three main components?  
+Power BI is a business intelligence (BI) and data visualization platform developed by Microsoft. It enables users to connect to, transform, visualize, and analyze data from various sources. The three main components of Power BI are: Power BI Desktop, Power BI Service, and Power BI Mobile. 
+Power BI Desktop:
+This is a free, downloadable application for Windows where users can connect to data sources, model data, create reports, and design dashboards. It's essentially the authoring tool for Power BI.
+Power BI Service:
+This is a cloud-based service (SaaS) where users can publish, share, and collaborate on reports and dashboards created in Power BI Desktop. It also provides capabilities for data analysis and visualization, and allows users to access reports on any device.
+Power BI Mobile:
+This refers to the mobile applications available for iOS, Android, and Windows devices. These apps allow users to view and interact with reports and dashboards published on the Power BI Service on their smartphones and tablets.
+
+2.Name two business use cases for Power BI dashboards.
+Two business use cases for Power BI dashboards are Sales Performance Tracking and Inventory Optimization. Power BI dashboards can help track sales metrics, identify trends, and optimize sales strategies. Additionally, they can be used to monitor inventory levels, identify slow-moving items, and improve supply chain management. 
+
+3.How do you download and install Power BI Desktop?
+To download and install Power BI Desktop, navigate to the Microsoft Power BI website and choose the download option. You can download directly from the site or through the Microsoft Store. After downloading, run the installer and follow the on-screen instructions. Once installed, you can launch the application from the Windows Start menu or your taskbar. 
+
+4.What is the difference between Power BI Desktop and Power BI Service?
+Power BI Desktop and Power BI Service are two core components of the Power BI platform, serving distinct but complementary purposes. Power BI Desktop is a free, locally installed application primarily used for creating and designing reports, including connecting to data sources, transforming data, and developing visualizations. In contrast, Power BI Service is a cloud-based platform focused on sharing, collaborating, and consuming reports and dashboards. 
+
+5.What file extension does a Power BI project use?
+A Power BI project, when saved from Power BI Desktop, typically uses the .pbix file extension. This file extension represents a Power BI Desktop Report file, which includes both the data model and the report visualizations. There are also other file extensions associated with Power BI, such as .pbit (for templates) and .pbids (for data sources). 
+
+6.Explain the role of Power Query in Power BI.
+A Power BI project, when saved from Power BI Desktop, typically uses the .pbix file extension. This file extension represents a Power BI Desktop Report file, which includes both the data model and the report visualizations. There are also other file extensions associated with Power BI, such as .pbit (for templates) and .pbids (for data sources). 
+
+7.Why would a business prefer Power BI over Excel for reporting?
+Businesses often prefer Power BI over Excel for reporting due to Power BI's superior capabilities in handling large datasets, providing interactive visualizations, automating reporting processes, and enhancing collaboration. Power BI excels at managing complex data, creating dynamic dashboards, and offering robust security features, making it a more scalable and efficient solution for business intelligence needs. 
+
+8.Describe one limitation of the free version of Power BI.
+The most obvious is that Free licences cannot share Reports or Dashboards with other users, neither can they view Reports or Dashboards shared from other Pro licence users. The only method of sharing a Report open to Free licence users is to publish the Report to the Web.
+
+9.What is a "published report" in Power BI Service?
+In Power BI Service, a "published report" is a report that has been transferred from the Power BI Desktop application to the Power BI cloud service. This allows users to access and interact with the report from various devices and locations, and to collaborate with others by sharing the report, dataset, and associated dashboards. Essentially, publishing makes the report accessible within the Power BI service environment, enabling wider sharing and interaction. 
+
+10.How does Power BI Mobile enhance accessibility?
+Power BI Mobile enhances accessibility by providing mobile-optimized reports, allowing for easy navigation and interaction with data on mobile devices, and by supporting accessibility features like high contrast mode and screen reader compatibility. 
+
+11.Compare Power BI with Tableau—pros and cons.
+Power BI and Tableau are both powerful data visualization and business intelligence tools, but they have distinct strengths and weaknesses. Power BI is generally more affordable and integrates well with Microsoft products, making it a good choice for businesses heavily invested in the Microsoft ecosystem. Tableau, on the other hand, is known for its superior visualization capabilities and performance with large datasets, but it comes at a higher cost and may require more training. 
+
+12.Explain how Power BI integrates with Azure services.
+Power BI integrates with Azure services to enable comprehensive business intelligence and data analytics. It connects to various Azure data sources like Azure SQL Database, Azure Data Lake Storage, and Azure Blob Storage, allowing users to import, transform, and visualize data within Power BI. Azure also provides features like Power BI Embedded for embedding reports into applications and Azure Analysis Services for advanced modeling and analysis. 
+
+13.What are "gateways" in Power BI, and when are they needed?
+In Power BI, a gateway acts as a bridge, enabling secure connections between your on-premises data sources and the Power BI cloud service. They are needed when your data resides within your local network (on-premises) and you want to use it in Power BI reports and dashboards without moving the data to the cloud. 
+
+14.How would you convince a company to adopt Power BI? (ROI argument)
+To convince a company to adopt Power BI, focus on demonstrating its Return on Investment (ROI) by highlighting how it can improve efficiency, reduce costs, and drive better decision-making through data-driven insights. Show them how Power BI can empower users across the organization to access and analyze data, leading to improved business outcomes and a competitive advantage. 
+
+15.What security features does Power BI offer for sensitive data?
+Power BI offers several security features to protect sensitive data, including data encryption, row-level security (RLS), and integration with Microsoft's security infrastructure. These features help control access, protect data in transit and at rest, and ensure compliance with data protection regulations. 
+
+
+
